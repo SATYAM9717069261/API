@@ -21,4 +21,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+*
+ <img src="https://github.com/SATYAM9717069261/API/blob/master/Screenshots/1.jpg" alt="Girl in a jacket" width="500" height="600"> 
